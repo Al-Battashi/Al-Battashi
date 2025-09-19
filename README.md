@@ -1,7 +1,8 @@
 <h2 align="left">hi.</h2>
-<h3 align="center" style="font-size: 14px; font-style: italic; color: #6e6e6e; font-weight: 300;">
-  Echoes of an unfinished program
-</h3>
+
+<p align="center">
+  <sub><i><span style="color: #6e6e6e;">Echoes of an unfinished program</span></i></sub>
+</p>
 
 <p align="center">
   <a href="https://twitter.com/3lo_qc" target="blank">
